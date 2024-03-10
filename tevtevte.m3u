@@ -90,13 +90,13 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Berita Satu
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/berita-satu-world-id.png?raw=true",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="Indonesia" tvg-logo="",Berita Satu [Backup]
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",CNN Indonesia
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/cnn-international-int.png?raw=true",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -117,7 +117,7 @@ http://rr.dens.tv/h/h12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjh
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/btv-id.png?raw=true",BTV
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/berita-satu-world-id.png?raw=true",BTV
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/kompas-tv-id.png?raw=true",KOMPAS TV
