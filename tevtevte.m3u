@@ -14,14 +14,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/inews-id.png?raw=true",INEWS
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",SCTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://raw.githubusercontent.com/revaldieka/testtvtvtv/main/SCTV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF: -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/sctv-id.png?raw=true",SCTV2
@@ -94,18 +89,6 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Drama
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Muslim
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Citra Bioskop
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
-
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",TV Edukasi
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
 
 #EXTINF:-1, group-title="Indonesia" tvg-logo="",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
