@@ -1,8 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RCTI-HD
 #EXTINF:0, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/rcti-id.png?raw=true" ,RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
@@ -29,7 +28,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF: -1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",INDOSIAR2
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true",INDOSIAR2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
@@ -46,20 +45,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1, group-title="Indonesia" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia",Trans7 
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV
+#EXTINF:-1, group-title="Indonesia" tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV
 https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",GTV
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/gtv-id.png?raw=true",GTV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/GTV-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Kompas TV
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/kompas-tv-id.png?raw=true",Kompas TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Metro TV
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/metro-tv-id.png?raw=true",Metro TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesia",Magna Channel
@@ -68,10 +66,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia" tvg-logo="",Metro TV [Backup]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",O Channel
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/o-channel-id.png?raw=true",O Channel
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="",Jak TV
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/jak-tv-id.png?raw=true",Jak TV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/JakTV
