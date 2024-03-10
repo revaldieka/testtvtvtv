@@ -28,7 +28,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF: -1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",INDOSIAR2
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true",INDOSIAR2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
@@ -36,7 +36,7 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/net-id.png?raw=true",NET 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",MNCTV
+#EXTINF:-1, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/mnc-tv-id.png?raw=true",MNCTV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/MNCTV-HD
