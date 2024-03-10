@@ -1,7 +1,6 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:0, group-title="Indonesia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/rcti-id.png?raw=true" ,RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
