@@ -4756,10 +4756,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.ibb.co/dM0SYrN/rcti.png" group-title="Indonesia", RCTI 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/b1tcbgm/rtv.png" group-title="Indonesia", RTV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
